@@ -2,4 +2,4 @@
 
 external stepper driver adapter
 
-!(/pictures/DSC_3167.JPG)
+![picture](/pictures/DSC_3167.JPG)
