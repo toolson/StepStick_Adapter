@@ -1,0 +1,1 @@
+pictures of StepStick adapter
